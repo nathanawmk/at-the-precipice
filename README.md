@@ -10,4 +10,4 @@ Metaphors are abstractions.
 And abstractions are lies. 
 Beyond the precipice I threw myself at
 Where life ends and eternity begins. 
-- Nathan Aw
+-Nathan Aw
